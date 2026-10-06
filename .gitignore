@@ -1,0 +1,12 @@
+# Photos originales (lourdes, HEIC) : seules les versions recadrées de images/galerie sont publiées
+photo/
+
+# Travail sur le logo et outils locaux
+logo/
+logo.html
+outils/
+
+# Ancienne image d'accueil, plus utilisée
+images/grillz-hero.png
+
+.DS_Store
